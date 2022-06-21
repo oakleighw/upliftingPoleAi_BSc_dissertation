@@ -1,5 +1,7 @@
 # Poler Vision: Uplifting the Pole Community with Intelligent Technology
 
+Link to complete code zip file (Too large for github, includes application): https://www.dropbox.com/s/fkcuroah69451hg/pole_AI_code_revised.zip?dl=0
+
 **Important:**
 - **Demonstrative video link: *https://youtu.be/elm1BVzHhr8***.
 
@@ -7,7 +9,7 @@
 
 - **The full application code from pyp is not included as it contains most code from *https://github.com/googlesamples/mlkit/tree/master/android/vision-quickstart*** **, with the inserted landmarks file used and classes changed to reflect the 3 Pole Moves (Butterfly, Scissor-sit, Superman). However, the built .apk file is included, if you would like to test it simply download to your smartphone, run it, and test over the 3 moves seen on youtube.**
 
-- ***'assess video'* notebook contains explicit frames from videos to match with metric results.**
+- ***'assess video'* notebook contains explicit frames from videos to match with metric results. Due to GitHub limitations, output has been removed. Please contact me to view notebook output.**
 
 ## 1_move_recognition
 Contains resources for the pole move recognition.
@@ -19,6 +21,6 @@ Included:
 ## 2_pole_versus_porn
 Contains resources from the pole versus porn examination.
 Included:
-- Model configeration notebooks, structured as per report model iterations.
-- Note that 'assess video' notebook contains explicit frames from videos to match with metric results.
+- Model configuration notebooks, structured as per report model iterations.
+- Note that 'assess video' notebook contains no output due to GitHub pornography rules.
 - The best weights used for video assessment, included in a seperate folder.
